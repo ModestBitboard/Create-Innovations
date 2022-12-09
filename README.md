@@ -1,2 +1,5 @@
 # Create Innovations
-Create Innovations adds a bit of everything, it aims to bring back create's forgotten items. You can enable special mod compat in the server config.
+An unofficial fork of Thermal and Tinker's Construct made into an addon for create.
+Make your laboratories and factories shine with new decorative blocks and powerful automation.
+
+Read the Wiki for more information
