@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  L  ",
+    "RRQRR",
+    " CCC "
+  ],
+  "key": {
+    "L": {
+      "item": "create_innovations:lapis_sheet"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "Q": {
+      "item": "create_innovations:silicon"
+    },
+    "C": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "create_innovations:integrated_circuit"
+  }
+}

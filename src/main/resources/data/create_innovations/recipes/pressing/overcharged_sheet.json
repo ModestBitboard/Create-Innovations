@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "create_innovations:overcharged_alloy"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_innovations:overcharged_sheet"
+    }
+  ]
+}

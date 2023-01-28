@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_innovations:item/gold_coin/gold_coin_4"
+  }
+}

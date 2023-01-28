@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		{
+			"tag": "minecraft:saplings"
+		},
+		{
+			"fluid": "minecraft:water",
+			"nbt": {},
+			"amount": 125
+		}
+	],
+	"results": [
+		{
+			"item": "minecraft:dead_bush"
+		},
+		{
+			"fluid": "create_innovations:resin",
+			"amount": 125
+		}
+	]
+}

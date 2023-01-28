@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"create_innovations:flowing_fine_sand",
+		"create_innovations:fine_sand",
+		"create_innovations:flowing_resin",
+		"create_innovations:resin",
+		"create_innovations:flowing_matrix",
+		"create_innovations:matrix",
+		"create_innovations:flowing_raw_logic",
+		"create_innovations:raw_logic",
+		"create_innovations:flowing_number_0",
+		"create_innovations:number_0",
+		"create_innovations:flowing_number_1",
+		"create_innovations:number_1",
+		"create_innovations:flowing_number_2",
+		"create_innovations:number_2",
+		"create_innovations:flowing_number_3",
+		"create_innovations:number_3",
+		"create_innovations:flowing_number_4",
+		"create_innovations:number_4",
+		"create_innovations:flowing_number_5",
+		"create_innovations:number_5",
+		"create_innovations:flowing_number_6",
+		"create_innovations:number_6",
+		"create_innovations:flowing_number_7",
+		"create_innovations:number_7",
+		"create_innovations:flowing_number_8",
+		"create_innovations:number_8",
+		"create_innovations:flowing_number_9",
+		"create_innovations:number_9"
+	]
+}

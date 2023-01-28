@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_innovations:block/andesite_alloy_block"
+    }
+  }
+}

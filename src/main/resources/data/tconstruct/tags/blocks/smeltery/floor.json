@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"create_innovations:thermal_casing",
+		"create_innovations:thermal_glass_casing"
+	]
+}

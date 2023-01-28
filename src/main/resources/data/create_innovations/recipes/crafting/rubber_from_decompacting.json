@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create_innovations:rubber_block"
+    }
+  ],
+  "result": {
+    "item": "create_innovations:rubber",
+    "count": 9
+  }
+}

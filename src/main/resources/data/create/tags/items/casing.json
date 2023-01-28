@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create_innovations:overcharged_casing",
+    "create_innovations:caution_casing",
+    "create_innovations:thermal_casing",
+    "create_innovations:thermal_glass_casing"
+  ]
+}

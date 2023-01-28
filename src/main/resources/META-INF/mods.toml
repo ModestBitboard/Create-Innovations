@@ -1,0 +1,44 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="create_innovations"
+version="${file.jarVersion}"
+displayName="Create Innovations"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/create-innovations"
+logoFile="create_innovations.png"
+credits="Created by ShadowFire5650"
+authors="ShadowFire5650"
+description='''
+A collection of recipe concepts I threw together made for create-themed tech modpacks. Requires Tinker's Construct, Create, and Create Crafts & Additions. Resin and Rubber textures are taken from Thermal Foundation.
+'''
+[[dependencies.create_innovations]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_innovations]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_innovations]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.0.d,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_innovations]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.5.2.40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_innovations]]
+    modId="createaddition"
+    mandatory=true
+    versionRange="[1.18.2-20221219a,)"
+    ordering="NONE"
+    side="BOTH"

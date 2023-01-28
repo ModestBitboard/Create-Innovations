@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "create_innovations:matrix",
+    "amount": 1000
+  },
+  "result": "create_innovations:computation_matrix",
+  "cooling_time": 20
+}

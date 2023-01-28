@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_innovations:refined_radiance_block"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_innovations:raw_logic",
+      "amount": 270
+    }
+  ],
+  "heatRequirement": "superheated"
+}

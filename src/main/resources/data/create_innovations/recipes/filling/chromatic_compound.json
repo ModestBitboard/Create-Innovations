@@ -1,0 +1,17 @@
+{
+	"type": "create:filling",
+	"ingredients": [
+		{
+			"item": "create_innovations:silicon"
+		},
+		{
+			"fluid": "create_innovations:chromatic_fluid",
+			"amount": 500
+		}
+	],
+	"results": [
+		{
+			"item": "create:chromatic_compound"
+		}
+	]
+}

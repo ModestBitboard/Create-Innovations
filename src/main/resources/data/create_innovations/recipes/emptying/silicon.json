@@ -1,0 +1,17 @@
+{
+	"type": "create:emptying",
+	"ingredients": [
+		{
+			"item": "create_innovations:silicon_compound"
+		}
+	],
+	"results": [
+		{
+			"item": "create_innovations:silicon"
+		},
+		{
+			"fluid": "create_innovations:fine_sand",
+			"amount": 250
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_innovations:item/bronze_coin/bronze_coin_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "count": 0.00000
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_0"
+    },
+    {
+      "predicate": {
+        "count": 0.03125
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_1"
+    },
+    {
+      "predicate": {
+        "count": 0.12500
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_2"
+    },
+    {
+      "predicate": {
+        "count": 0.25000
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_3"
+    },
+    {
+      "predicate": {
+        "count": 0.50000
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_4"
+    },
+    {
+      "predicate": {
+        "count": 0.62500
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_5"
+    },
+    {
+      "predicate": {
+        "count": 0.75000
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_6"
+    },
+    {
+      "predicate": {
+        "count": 0.87500
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_7"
+    },
+    {
+      "predicate": {
+        "count": 1.00000
+      },
+      "model": "create_innovations:item/bronze_coin/bronze_coin_8"
+    }
+  ]
+}

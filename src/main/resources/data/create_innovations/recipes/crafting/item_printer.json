@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "C"
+  ],
+  "key": {
+    "I": {
+      "item": "create_innovations:integrated_circuit"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "create_innovations:item_printer"
+  }
+}

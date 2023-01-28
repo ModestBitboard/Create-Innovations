@@ -1,0 +1,13 @@
+{
+  "type": "create_innovations:item_printing",
+  "ingredients": [
+    {
+      "item": "create_innovations:silicon"
+    }
+  ],
+  "results": [
+  	{
+    "item": "create_innovations:incomplete_voltaic_mechanism"
+    }
+  ]
+}

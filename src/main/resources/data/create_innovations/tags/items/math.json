@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "create_innovations:zero",
+    "create_innovations:one",
+    "create_innovations:two",
+    "create_innovations:three",
+    "create_innovations:four",
+    "create_innovations:five",
+    "create_innovations:six",
+    "create_innovations:seven",
+    "create_innovations:eight",
+    "create_innovations:nine",
+    "create_innovations:plus",
+    "create_innovations:minus",
+    "create_innovations:multiply",
+    "create_innovations:divide"
+  ]
+}

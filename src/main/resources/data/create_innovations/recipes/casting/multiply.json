@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "create_innovations:multiply_cast"
+  },
+  "fluid": {
+    "name": "create_innovations:raw_logic",
+    "amount": 1
+  },
+  "result": {
+    "item": "create_innovations:multiply"
+  },
+  "cooling_time": 10
+}

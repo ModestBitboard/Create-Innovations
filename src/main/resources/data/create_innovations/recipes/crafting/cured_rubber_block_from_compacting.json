@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "create_innovations:cured_rubber"
+    }
+  },
+  "result": {
+    "item": "create_innovations:cured_rubber_block"
+  }
+}

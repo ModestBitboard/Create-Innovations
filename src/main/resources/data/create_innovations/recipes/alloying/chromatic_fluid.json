@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "tconstruct:liquid_soul",
+      "amount": 200
+    },
+    {
+      "name": "tconstruct:molten_obsidian",
+      "amount": 500
+    },
+    {
+      "name": "tconstruct:molten_amethyst",
+      "amount": 300
+    }
+  ],
+  "result": {
+    "fluid": "create_innovations:chromatic_fluid",
+    "amount": 1000
+  },
+  "temperature": 1150
+}

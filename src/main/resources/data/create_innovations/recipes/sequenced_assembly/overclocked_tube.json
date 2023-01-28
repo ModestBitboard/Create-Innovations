@@ -1,0 +1,87 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:electron_tube"
+  },
+  "transitionalItem": {
+    "item": "create_innovations:incomplete_overclocked_tube"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_innovations:incomplete_overclocked_tube"
+        },
+        {
+          "item": "minecraft:diamond"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_overclocked_tube"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_innovations:voltaic_mechanism"
+        },
+        {
+          "fluid": "tconstruct:molten_gold",
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_overclocked_tube"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create_innovations:incomplete_overclocked_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_overclocked_tube"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_innovations:overclocked_tube",
+      "chance": 120.0
+    },
+    {
+      "item": "create:iron_sheet",
+      "chance": 8.0
+    },
+    {
+      "item": "create:golden_sheet",
+      "chance": 8.0
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 5.0
+    },
+    {
+      "item": "create:crushed_gold_ore",
+      "chance": 2.0
+    },
+    {
+      "item": "create:crushed_iron_ore",
+      "chance": 2.0
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "loops": 3
+}

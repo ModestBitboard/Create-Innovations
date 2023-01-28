@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+    "ingredient": {
+    "item": "create_innovations:one"
+  },
+  "result": {
+    "fluid": "create_innovations:number_1",
+    "amount": 1
+  },
+  "temperature": 200,
+  "time": 20
+}

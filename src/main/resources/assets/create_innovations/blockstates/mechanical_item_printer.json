@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "loaded=false,creative=false": {
+      "model": "create_innovations:block/item_printer/empty"
+    },
+    "loaded=true,creative=false": {
+      "model": "create_innovations:block/item_printer/gold"
+    },
+    "loaded=false,creative=true": {
+      "model": "create_innovations:block/item_printer/creative"
+    },
+    "loaded=true,creative=true": {
+      "model": "create_innovations:block/item_printer/creative"
+    }
+  }
+}

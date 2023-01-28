@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "create:refined_radiance"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_innovations:radiant_sheet"
+    }
+  ]
+}

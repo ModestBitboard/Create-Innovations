@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "create_innovations:cast",
+    "create_innovations:ingot_cast",
+    "create_innovations:nugget_cast",
+    "create_innovations:rod_cast",
+    "create_innovations:three_cast",
+    "create_innovations:eight_cast",
+    "create_innovations:plus_cast",
+    "create_innovations:minus_cast",
+    "create_innovations:multiply_cast",
+    "create_innovations:divide_cast"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_innovations:item/bronze_coin/bronze_coin_7"
+  }
+}

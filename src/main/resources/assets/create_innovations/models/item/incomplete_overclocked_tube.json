@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_innovations:item/incomplete_overclocked_tube"
+  }
+}

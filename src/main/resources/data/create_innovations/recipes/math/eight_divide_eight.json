@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "XYZ"
+  ],
+  "key": {
+    "X": {
+      "item": "create_innovations:eight"
+    },
+    "Y": {
+      "item": "create_innovations:divide"
+    },
+    "Z": {
+      "item": "create_innovations:eight"
+    }
+  },
+  "result": {
+    "item": "create_innovations:one"
+  },
+  "acceptMirrored": false
+}

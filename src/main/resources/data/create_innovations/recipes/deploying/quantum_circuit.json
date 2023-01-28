@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_innovations:integrated_circuit"
+    },
+    {
+      "item": "create_innovations:computation_matrix"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_innovations:quantum_circuit"
+    }
+  ]
+}

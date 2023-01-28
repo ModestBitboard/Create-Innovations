@@ -1,0 +1,90 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_innovations:incomplete_voltaic_mechanism"
+  },
+  "transitionalItem": {
+    "item": "create_innovations:incomplete_voltaic_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        },
+        {
+          "item": "create_innovations:cured_rubber"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        },
+        {
+          "item": "createaddition:capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "create_innovations:incomplete_voltaic_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_innovations:voltaic_mechanism",
+      "chance": 120.0
+    },
+    {
+      "item": "createaddition:zinc_sheet",
+      "chance": 8.0
+    },
+    {
+      "item": "createaddition:copper_wire",
+      "chance": 8.0
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 5.0
+    },
+    {
+      "item": "create:crushed_copper_ore",
+      "chance": 2.0
+    },
+    {
+      "item": "create:crushed_zinc_ore",
+      "chance": 2.0
+    },
+    {
+      "item": "create_innovations:silicon_compound"
+    }
+  ],
+  "loops": 4
+}

@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		{
+			"item": "create_innovations:sand_chunks"
+		},
+		{
+			"item": "create_innovations:sand_chunks"
+		},
+		{
+			"fluid": "minecraft:lava",
+			"nbt": {},
+			"amount": 250
+		}
+	],
+	"results": [
+		{
+			"item": "create_innovations:silicon_compound"
+		}
+	],
+	"heatRequirement": "heated"
+}

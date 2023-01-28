@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "create_innovations:rubber"
+  },
+  "result": "create_innovations:cured_rubber",
+  "cookingtime": 100
+}
