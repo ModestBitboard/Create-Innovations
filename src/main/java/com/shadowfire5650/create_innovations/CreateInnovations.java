@@ -2,7 +2,6 @@ package com.shadowfire5650.create_innovations;
 
 import com.shadowfire5650.create_innovations.content.blocks.InnovationBlocks;
 import com.shadowfire5650.create_innovations.content.blocks.InnovationTileEntities;
-import com.shadowfire5650.create_innovations.content.config.InnovationServerConfigs;
 import com.shadowfire5650.create_innovations.content.item.InnovationItems;
 import com.shadowfire5650.create_innovations.content.fluid.InnovationFluids;
 import com.shadowfire5650.create_innovations.content.recipes.InnovationRecipes;
@@ -64,7 +63,6 @@ public class CreateInnovations {
 
 		DistExecutor.unsafeRunWhenOn(Dist.CLIENT, () -> () -> onCtorClient(modEventBus, forgeEventBus));
 
-		modLoadingContext.registerConfig(ModConfig.Type.SERVER, InnovationServerConfigs.SPEC, "create_innovations-server.toml");
 		modEventBus.addListener(CreateInnovations::clientSetup);
 	}
 
