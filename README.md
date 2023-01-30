@@ -1,4 +1,4 @@
-A collection of recipe concepts I threw together made for create-themed tech modpacks. Requires Tinker's Construct, Create, and Create Crafts & Additions. Resin and Rubber textures are taken from Thermal Foundation.
+A collection of recipe concepts I threw together made for create-themed tech modpacks. Requires Tinker's Construct, Create, and Create Crafts & Additions.
 
  
 
