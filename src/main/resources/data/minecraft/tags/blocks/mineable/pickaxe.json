@@ -3,13 +3,11 @@
 	"values": [
 		"create_innovations:silicon_block",
 		"create_innovations:andesite_alloy_block",
-		"create_innovations:caution_casing",
-		"create_innovations:overcharged_casing",
 		"create_innovations:thermal_casing",
 		"create_innovations:thermal_glass_casing",
 		"create_innovations:refined_radiance_block",
 		"create_innovations:shadow_steel_block",
 		"create_innovations:overcharged_block",
-		"create_innovations:item_printer"
+		"create_innovations:mechanical_item_printer"
 	]
 }

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "create_innovations:item_printer"
+          "name": "create_innovations:mechanical_item_printer"
         }
       ],
       "conditions": [

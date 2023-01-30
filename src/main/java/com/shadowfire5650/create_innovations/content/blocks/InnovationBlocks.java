@@ -128,6 +128,7 @@ public class InnovationBlocks {
 			.register();
 
 	public static final BlockEntry<ThermalCasingBlock> THERMAL_CASING = REGISTRATE.block("thermal_casing", ThermalCasingBlock::new)
+			.initialProperties(() -> Blocks.IRON_BLOCK)
 			.properties(p -> p.color(MaterialColor.TERRACOTTA_LIGHT_GRAY))
 			.properties(p -> p.sound(SoundType.COPPER))
 			.onRegister(connectedTextures(() -> new SimpleCTBehaviour(InnovationSpriteShifts.THERMAL_CASING)))
@@ -136,9 +137,9 @@ public class InnovationBlocks {
 			.register();
 
 	public static final BlockEntry<ThermalGlassCasingBlock> THERMAL_GLASS_CASING = REGISTRATE.block("thermal_glass_casing", ThermalGlassCasingBlock::new)
+			.initialProperties(() -> Blocks.GLASS)
 			.properties(p -> p.color(MaterialColor.TERRACOTTA_LIGHT_GRAY))
 			.properties(p -> p.sound(SoundType.COPPER))
-			.initialProperties(() -> Blocks.GLASS)
 			.properties(InnovationBlocks::glassProperties)
 			.onRegister(connectedTextures(() -> new SimpleCTBehaviour(InnovationSpriteShifts.THERMAL_GLASS_CASING)))
 			.addLayer(() -> RenderType::cutout)
